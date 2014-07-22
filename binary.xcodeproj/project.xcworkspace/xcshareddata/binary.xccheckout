@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54AABD42-A8E6-4DE5-83BE-BC863620D758</string>
+	<key>IDESourceControlProjectName</key>
+	<string>binary</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E12ED9D-B8EC-4201-B4D1-C8AEBDF7AC3B</key>
+		<string>https://github.com/netizz/binary.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>binary.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E12ED9D-B8EC-4201-B4D1-C8AEBDF7AC3B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/netizz/binary.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E12ED9D-B8EC-4201-B4D1-C8AEBDF7AC3B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E12ED9D-B8EC-4201-B4D1-C8AEBDF7AC3B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>binary</string>
+		</dict>
+	</array>
+</dict>
+</plist>
