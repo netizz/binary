@@ -25,7 +25,7 @@ int binsearch(const std::vector<int>& A, int x){
 
 int main(int argc, const char * argv[])
 {
-
+	cout << "program for binary search " << endl;
     // insert code here...
     const std::vector<int> A={1,2,3,4,5,6,7,8};
     int k = binsearch(A, 5);
