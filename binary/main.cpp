@@ -11,15 +11,16 @@
 
 int binsearch(const std::vector<int>& A, int x){
     int n = A.size();
+    
     int lo = -1, hi=n;
     
     while (lo+1 < hi) {
-        int mid=(lo+hi)/2;
-        if (A[mid]<x)
-            lo=mid;
+        int mid=(lo+hi)/2; //get the middle index
+        if (A[mid]<x) //comparing the middle value of middle index with the value need to search for
+            lo=mid; //found the value
         else
-            hi=mid;
-    }
+            hi=mid; //found the value
+    }// if it didnt find the number in array, repeat the process until nothing left in array
     return hi;
 }
 
